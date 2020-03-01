@@ -1,0 +1,11 @@
+0,__NOCLASS__,FFFFFF
+1,pedestrian,#e6194b
+2,people,#3cb44b
+3,bicycle,#ffe119
+4,car,#0082c8
+5,van,#f58231
+6,truck,#911eb4
+7,tricycle,#46f0f0
+8,awning-tricycle,#f032e6
+9,bus,#fffac8
+10,motor,#800000
